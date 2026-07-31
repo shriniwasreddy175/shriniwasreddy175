@@ -211,12 +211,24 @@ Also familiar with
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://leetcode.com/u/cgCFjiMBNo/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.figma.com/files/team/1543291049476075191/user/1543291047724074609?fuid=1543291047724074609">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/shriniwasreddy175506592321">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://unstop.com/u/shrinmar67300">
-<img src="https://img.shields.io/badge/Unstop-5B2EFF?style=for-the-badge&labelColor=111827&color=5B2EFF"/>
+<img src="https://img.shields.io/badge/Unstop-6C2BD9?style=for-the-badge&labelColor=111827"/>
+</a>
+
+<a href="https://www.instagram.com/shriniwasreddy175/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:shriniwasreddy175@gmail.com">
