@@ -1,9 +1,11 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm **Shriniwas Mare**
+<p align="center">
+  <img src="./assets/Shriniwas_Mare_Github_Banner.jpg" alt="Shriniwas Mare - Full Stack Developer" width="100%">
+</p>
 
-<h3 align="center">Software Developer • Full Stack Engineer • AI & IoT Enthusiast</h3>
+<br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+React;AI+%26+IoT+Enthusiast;Building+Technology+for+Real-World+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;AI+%26+IoT+Enthusiast;Building+Technology+for+Real-World+Problems" />
 </p>
 
 <p align="center">
