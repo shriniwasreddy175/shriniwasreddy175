@@ -26,6 +26,8 @@
 
 I'm a passionate **Software Developer** with a strong interest in **Full Stack Development, Artificial Intelligence, Internet of Things (IoT), and Cloud Technologies**.
 
+🎓 Pursuing BTech in Electronics and Telecommunication
+
 🎓 Diploma Graduate in Computer Engineering
 
 💼 Former Full Stack Development Intern at **ETHDC Technologies Pvt. Ltd.**
